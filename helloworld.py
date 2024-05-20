@@ -4,7 +4,7 @@ a = "python is amazing"
 print("%s는 %d살 입니다" %('준석이',20))
 print("{}는 {}살 입니다".format('준석이',20))
 
-age = 20
+age = 21
 name = "준석이"
 
 print(f"{name}는 {age}살 입니다")
